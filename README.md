@@ -20,3 +20,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 Belajar itu menyenangkan.
 Belajar itu buat pintar.
+Belajar itu sehat.
